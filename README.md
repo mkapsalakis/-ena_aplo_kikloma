@@ -1,2 +1,3 @@
 # -ena_aplo_kikloma
 Το παρόν μ- σενάριο πρόκειται να εφαρμοστεί εντός δυο διδακτικών ωρών. Στην 1η ώρα θα πραγματοποιηθεί η μελέτη του θέματος, ενώ στην 2η θα συμπληρώσουμε τα φύλλα εργασιών και θα δώσουμε ανατροφοδότηση.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Άδεια Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Αυτό το εργασία χορηγείται με άδεια <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές </a>.
